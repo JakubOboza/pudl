@@ -42,6 +42,8 @@ PATH="/Users/kuba/pudl/bin:$PATH"
 
 ### Install from binary
 
+To download ready binary use releases page [https://github.com/JakubOboza/pudl/releases](https://github.com/JakubOboza/pudl/releases)
+
 1. Download binary for your operating system and arch eg. osx amd64
 2. Untar it in a directory eg. `/Users/<user_name>/pudl` using `tar -zxvf pudl.osx-amd64.tar.gz`
 3. Add it to the path var (if you are using bash ir will be ~./bashrc) `PATH="/Users/<user_name>/pudl:$PATH"`
